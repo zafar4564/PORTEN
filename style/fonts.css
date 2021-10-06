@@ -1,0 +1,24 @@
+@font-face {
+    font-family: 'Post-no-bills-jaffna' ;
+    src: url(../Fonts/PostNoBillsJaffna-Regular.ttf);
+}
+@font-face {
+    font-family:  'Post-no-bills-jaffna-bold' ;
+    src: url(../Fonts/PostNoBillsJaffna-Bold.ttf);
+}
+@font-face {
+    font-family: 'Playfair-Display' ;
+    src: url(../Fonts/PlayfairDisplay-Regular.ttf);
+}
+@font-face {
+    font-family: 'Playfair-Display-bold' ;
+    src: url(../Fonts/PlayfairDisplay-Bold.ttf);
+}
+@font-face {
+    font-family: 'PTSans' ;
+    src: url(../Fonts/PTSans-Regular.ttf);
+}
+@font-face {
+    font-family: 'PTSans-bold' ;
+    src: url(../Fonts/PTSans-Bold.ttf);
+}
